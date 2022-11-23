@@ -40,7 +40,6 @@
             <li class="nav-item"><a class="nav-link" href="#services">Serviços</a></li>
             <li class="nav-item"><a class="nav-link" href="#team">Equipe</a></li>
             <li class="nav-item"><a class="nav-link" href="#parceria">Parcerias</a></li>
-            <li class="nav-item"><a class="nav-link" href="#contact">Faça seu cadastro</a></li>
           </ul><a class="btn btn-primary" href="#contact">Começe na LetsConnect</a>
         </div>
       </div>
