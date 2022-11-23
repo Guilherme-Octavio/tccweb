@@ -354,7 +354,7 @@
           <div class="col-md-6" data-aos="zoom-in" data-aos-delay="100">
             <div class="bg-light my-2 p-3 pt-2">
               <p>Deseja fazer negocios com a<strong LetsConnect</strong>, entre em contato</p>
-              <form action="https://api.whatsapp.com/send?phone=971232324" method="POST">
+              <form action="https://discord.gg/wZhJYGmB" method="POST">
                 <button class="btn btn-primary mt-2" type="submit" name="criar">Mandar </button>
               </form>
             </div>
